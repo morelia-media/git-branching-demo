@@ -10,3 +10,4 @@
 /dataSources.local.xml
 .idea
 .Ds_Store
+node_modules
